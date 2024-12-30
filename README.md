@@ -1,7 +1,4 @@
-Here is the complete Markdown content for your `README.md` file:
-
-
-# README for Upscale Jupyter Notebook
+# Upscale Jupyter Notebook
 
 This repository contains a Jupyter Notebook designed to demonstrate super-resolution using GFPGAN for enhancing video quality. The notebook provides step-by-step instructions for loading models, processing frames, and reconstructing a high-quality video. It also integrates audio into the processed video.
 
