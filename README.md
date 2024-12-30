@@ -36,8 +36,8 @@ Ensure the path to the weights file is correctly specified in the notebook.
 
 1. Clone the Repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [<repository-url>](https://github.com/AD9190/Upscale_GFGAN)
+   cd Upscale_GFGAN
    ```
 
 2. Launch Jupyter Notebook:
